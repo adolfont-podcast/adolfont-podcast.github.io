@@ -1,11 +1,16 @@
 ![logo](images/logo.jpg)
 
-Visite [o site na plataforma Anchor](https://anchor.fm/adolfont).
+Podcast que entrevista profissionais da área da computação e de áreas próximas. 
+
+Visite [o site na plataforma Anchor](https://anchor.fm/adolfont) para escutar.
 
 # Quem sou eu?
 
+Veja [https://about.me/adolfont](https://about.me/adolfont)
+
 # Objetivo
 
+Entender melhor como eles se interessaram pela sua atual profissão, como é seu dia-a-dia e quais são suas motivações, dificuldades e desafios.
 
 # Blog posts
 
