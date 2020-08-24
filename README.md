@@ -2,7 +2,7 @@
 
 ![logo](images/logo.jpg)
 
-Visite https://anchor.fm/adolfont
+Visite [o site na plataforma Anchor](https://anchor.fm/adolfont).
 
 <html>
   <!-- Global site tag (gtag.js) - Google Analytics -->
