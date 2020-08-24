@@ -12,9 +12,14 @@ Veja [https://about.me/adolfont](https://about.me/adolfont)
 
 Entender melhor como eles se interessaram pela sua atual profissão, como é seu dia-a-dia e quais são suas motivações, dificuldades e desafios.
 
-# Blog posts
+# Blog posts (in English)
+
+[Art-Education and “Creative Programming”](https://medium.com/@adolfont/art-education-and-creative-programming-72c91b5420b2)
+
 
 # Vídeos
+
+[Playlist de vídeos do Podcast do professor Adolfo Neto no YouTube](https://www.youtube.com/playlist?list=PLF5ttO8F-IsSl1zRpP521vBVWGsCeRbEy)
 
 <html>
   <!-- Global site tag (gtag.js) - Google Analytics -->
